@@ -11,3 +11,5 @@
 - [python易错点记录](https://github.com/lxs24sxl/article/blob/master/python%E6%98%93%E9%94%99%E7%82%B9%E8%AE%B0%E5%BD%95.md) by [@lxs24sxl](https://github.com/lxs24sxl)
 
 - [盘点 TC39 那些有趣的提案](https://github.com/lxs24sxl/article/blob/master/%E7%9B%98%E7%82%B9TC39%E9%82%A3%E4%BA%9B%E6%9C%89%E8%B6%A3%E7%9A%84%E6%8F%90%E6%A1%88.md) by [@lxs24sxl](https://github.com/lxs24sxl)
+
+- [ES7 Decorator 装饰者模式](http://taobaofed.org/blog/2015/11/16/es7-decorator/) by 玄农(淘宝前端团队)
