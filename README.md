@@ -15,3 +15,5 @@
 - [ES7 Decorator 装饰者模式](http://taobaofed.org/blog/2015/11/16/es7-decorator/) by @玄农(淘宝前端团队)
 
 - [前端团队网站大全](https://github.com/lxs24sxl/article/blob/master/%E5%89%8D%E7%AB%AF%E5%9B%A2%E9%98%9F%E7%BD%91%E7%AB%99%E5%A4%A7%E5%85%A8.md) by [@lxs24sxl](https://github.com/lxs24sxl)
+
+- [Git 回滚代码的正确姿势](https://www.jianshu.com/p/f7451177476a) by @BYQiu(来源简书)
