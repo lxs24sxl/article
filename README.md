@@ -17,3 +17,5 @@
 - [前端团队网站大全](https://github.com/lxs24sxl/article/blob/master/%E5%89%8D%E7%AB%AF%E5%9B%A2%E9%98%9F%E7%BD%91%E7%AB%99%E5%A4%A7%E5%85%A8.md) by [@lxs24sxl](https://github.com/lxs24sxl)
 
 - [Git 回滚代码的正确姿势](https://www.jianshu.com/p/f7451177476a) by @BYQiu(来源简书)
+
+- [nuxt.js引入预处理器和外部css库](https://github.com/lxs24sxl/article/blob/master/nuxt.js%E5%BC%95%E5%85%A5%E9%A2%84%E5%A4%84%E7%90%86%E5%99%A8%E5%92%8C%E5%A4%96%E9%83%A8css%E5%BA%93.md) by [@lxs24sxl](https://github.com/lxs24sxl)
