@@ -22,5 +22,7 @@
 
 # 2019年
 
+-[【英】19 ways to become a better Node.js developer in 2019](https://mp.weixin.qq.com/s/vraduYdTRfnZRrUxV48NBw) by @前端早读课(微信公众号FeZaoDuKe) - 2019-01-05
+
 - [强大的cmder安装及配置](https://github.com/lxs24sxl/article/blob/master/%E5%BC%BA%E5%A4%A7%E7%9A%84cmder%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE.md) by [@lxs24sxl](https://github.com/lxs24sxl) - 2019-01-13
 
