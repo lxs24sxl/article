@@ -19,3 +19,8 @@
 - [Git 回滚代码的正确姿势](https://www.jianshu.com/p/f7451177476a) by @BYQiu(来源简书) - 2018-12-04
 
 - [nuxt.js引入预处理器和外部css库](https://github.com/lxs24sxl/article/blob/master/nuxt.js%E5%BC%95%E5%85%A5%E9%A2%84%E5%A4%84%E7%90%86%E5%99%A8%E5%92%8C%E5%A4%96%E9%83%A8css%E5%BA%93.md) by [@lxs24sxl](https://github.com/lxs24sxl) - 2018-12-06
+
+# 2019年
+
+- [强大的cmder安装及配置](https://github.com/lxs24sxl/article/blob/master/%E5%BC%BA%E5%A4%A7%E7%9A%84cmder%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE.md) by [@lxs24sxl](https://github.com/lxs24sxl) - 2019-01-13
+

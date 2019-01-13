@@ -7,9 +7,9 @@
 
 #### 2.安装配置
 
-> 1.双击Cmder.exe，即可安装；
-> 2.将Cmder文件夹加入环境变量，将Cmder的安装文件绝对路径加入进即可；
-> 3.将Cmder添加到右击菜单下，打开一个管理员终端，输入 Cmder.exe /REGISTER ALL回车即可；
+> 1.双击Cmder.exe，即可安装；  
+> 2.将Cmder文件夹加入环境变量，将Cmder的安装文件绝对路径加入进即可；  
+> 3.将Cmder添加到右击菜单下，打开一个管理员终端，输入 Cmder.exe /REGISTER ALL回车即可；  
 
 #### 3.常用快捷键
 ```
